@@ -17,7 +17,7 @@ public class JournalEntry {
   return title;
  }
 
- public void setTitle(Sting title) {
+ public void setTitle(String title) {
   this.title = title;
  }
 
